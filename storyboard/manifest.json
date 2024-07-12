@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "api": "1.0.0",
   "description": "This is a test package",
-  "main": "./code.jsx",
+  "main": "./code.js",
   "ui": "./ui.html",
   "networkAccess": {
     "allowedDomains": [
